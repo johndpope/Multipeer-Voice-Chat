@@ -23,7 +23,7 @@ The unit tests and UI tests currently don't do anything.
 * You can speak to peers
 * You can tap the "Ongoing Call" button to advance to the in-call screen
 
-### Bugs / things I'd like to have done
+### Bugs / Things I want to change
 * The `AVAudioSession` doesn't resume correctly if the app is interrupted
 * The user has no option to change where the audio is played through
 * The call doesn't end properly when the `End Call` button is pressed in the InCallViewController
