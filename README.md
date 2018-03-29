@@ -10,6 +10,8 @@ I plan to change the layout of the app significantly to improve usability.
 
 This app requires multiple devices to show off its networking capabilities. To test, I reccomend running the app in a simulator and on a physical device at the same time. It's much less impressive if you have two simulator instances communicating with each other, as you'll only hear your computer's microphone input played back with a slight delay.
 
+The unit tests and UI tests currently don't do anything.
+
 ## State of the App
 
 ### Things that work
