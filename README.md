@@ -1,4 +1,4 @@
-# Multipeer-Voice-Chat
+# Multipeer Voice Chat
 
 This app uses Apple's `MultipeerConnectivity` and `AVFoundation` frameworks to facilitate area-local peer-to-peer voice calls with up to eight users.
 
